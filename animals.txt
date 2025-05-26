@@ -2,3 +2,5 @@
 2. Lion
 3. Monkey
 4. Cow
+5. Leopard
+6. Sheep
