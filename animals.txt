@@ -6,3 +6,5 @@
 6. Zebra
 7. Leopard
 8. Sheep
+9. Giraffe
+10. Gorilla
