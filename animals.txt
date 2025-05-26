@@ -4,4 +4,5 @@
 4. Cow
 5. Alpaca
 6. Zebra
-
+7. Leopard
+8. Sheep
